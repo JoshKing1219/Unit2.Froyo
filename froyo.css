@@ -1,9 +1,9 @@
 body{
-    background-color: antiquewhite;
+    background-color: darkcyan;
 }
 h1{
     padding: 20%;
     text-align: center;
-    color: indigo;
-    font-size: 3rem;
+    color: maroon;
+    font-size: 2.5rem;
 }

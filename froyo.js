@@ -1,7 +1,7 @@
 // Prompt for Froyo Order
 const userInputString = prompt(
-    "Please enter the flavors of Froyo you'd like to order separated by commas.",
-    " vanilla, vanilla, vanilla, strawberry, coffee, coffee"
+    "Please enter the flavors of Froyo you'd like to order separated by commas. Please also make sure to not include spaces when entering the name of the flavor.",
+    "vanilla,vanilla,vanilla,strawberry,coffee,coffee"
 )
 
 const froyoArray = userInputString.split(",");
